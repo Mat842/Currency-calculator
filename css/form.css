@@ -1,0 +1,12 @@
+.form__labelText {
+    width: 100%;
+    width: 200px;
+    display: inline-block;
+    margin-right: 30px;
+    background-color: rgb(217, 239, 69);
+    font-size: 18px;
+}
+
+.form__result {
+    margin-left: 150px;
+}

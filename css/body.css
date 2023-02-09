@@ -1,0 +1,7 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-image: url("../images/landscape.jpg");
+}
