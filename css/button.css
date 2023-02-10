@@ -1,18 +1,18 @@
 .button {
-    cursor: pointer;
-    width: 100%;
-    color: white;
-    background: rgb(4, 112, 51);
-  }
+  cursor: pointer;
+  width: 100%;
+  color: white;
+  background: rgb(4, 112, 51);
+}
 
-  .button:hover {
-    background: rgb(2, 75, 34);
-  }
+.button:hover {
+  background: rgb(2, 75, 34);
+}
 
-  .button:active {
-    background: rgb(3, 180, 21);
-  }
+.button:active {
+  background: rgb(3, 180, 21);
+}
 
-  .button {
-    cursor: pointer;
-  }
+.button {
+  cursor: pointer;
+}
