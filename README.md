@@ -20,3 +20,4 @@ Below is a manual for the calculator in the form of a gif.
 - ES 6+ features,
 - I used to a normalizer version - 8.0.1,
 - I used to a font with family - Lato.
+- I used Flex Box
