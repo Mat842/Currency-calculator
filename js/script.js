@@ -2,7 +2,6 @@
     const welcome = () => {
         console.log("Witam serdecznie deweloperów");
     }
-    welcome();
 
     const calculateResult = (amount, currency) => {
         const USD = 4.35;
@@ -47,6 +46,8 @@
         const formElement = document.querySelector(".js-form");
 
         formElement.addEventListener("submit", onFormSubmit);
+
+        welcome();
     }
 
     init();
